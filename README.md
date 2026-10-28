@@ -213,6 +213,7 @@ This is a four-member group project.
 
   Udita Yadav                         Testing, quality assurance, test
                                       cases, and defect tracking
+                                      
   -----------------------------------------------------------------------
 
 These are proposed responsibility areas based on the team's SRS. The
