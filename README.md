@@ -202,16 +202,16 @@ This is a four-member group project.
   -----------------------------------------------------------------------
   Team Member                         Project Contribution
   ----------------------------------- -----------------------------------
-  Vedika Srivastava                   Project planning, requirements,
+  Vedika Srivastava                   - Project planning, requirements,
                                       documentation, and coordination
 
-  Teesha Sahu                         System design, UML diagrams, and
+  Teesha Sahu                         - System design, UML diagrams, and
                                       design documentation
 
-  Utkarsh Pandey                      Application development, database,
+  Utkarsh Pandey                      - Application development, database,
                                       and security implementation
 
-  Udita Yadav                         Testing, quality assurance, test
+  Udita Yadav                         - Testing, quality assurance, test
                                       cases, and defect tracking
                                       
   -----------------------------------------------------------------------
